@@ -72,7 +72,7 @@ B43_SDET_001_Automation_Avengers/
 📑 [View Test Cases](https://docs.google.com/spreadsheets/d/157k9R_5NM0TkO9X9nNwbpP_Dv3RXxY1aFbk8x3yc0GU/edit?usp=sharing)
 
 ### Bug Report
-🐞 [View Bug Report]()
+🐞 [View Bug Report](https://docs.google.com/spreadsheets/d/16YG2dRuEMcWHMlcTFR9kldExqWWd5gt1mrvS896Dw4o/edit?usp=sharing)
 
 
 ## APIs Used
