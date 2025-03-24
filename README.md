@@ -1,6 +1,6 @@
 # B43_SDET_001_Automation_Avengers
 
-## Screenshot
+## Nykaa
 ![Nykaa Homepage](https://drive.google.com/uc?export=view&id=1EhHV67iDCjvSzITBfSEx9ugEsDoz8iV4)
 
 ## Introduction
