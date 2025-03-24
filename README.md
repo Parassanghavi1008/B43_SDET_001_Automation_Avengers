@@ -58,7 +58,21 @@ B43_SDET_001_Automation_Avengers/
 - Maven
 - Selenium WebDriver
 - Cucumber
-- IntelliJ IDEA (Recommended) or Eclipse
+- IntelliJ
+
+## Project Documents
+
+### Test Plan
+📄 [View Test Plan]()
+
+### Mindmap
+🖼️ [View Mindmap](https://drive.google.com/file/d/1I-PNUdHy3JOL0eC5rZ8_pFONWo3lhZDx/view?usp=sharing)
+
+### Test Cases
+📑 [View Test Cases](https://docs.google.com/spreadsheets/d/157k9R_5NM0TkO9X9nNwbpP_Dv3RXxY1aFbk8x3yc0GU/edit?usp=sharing)
+
+### Bug Report
+🐞 [View Bug Report]()
 
 
 ## APIs Used
